@@ -1,1 +1,1 @@
-# <style="color:red;">APIキーは適切に管理してください。</style>
+<p style="color:red;">APIキーは適切に管理してください。</p>
